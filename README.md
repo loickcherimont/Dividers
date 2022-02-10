@@ -13,3 +13,7 @@ a list of dividers related with that integer.
 - [] Running with negative integers
 - [] Prime number indicator with message *n is a prime number so, 2 dividers*
 - [] Change color *too aggressive for user!*
+
+<!-- Improve README.md writing -->
+<!-- What is it? -->
+<!-- How does it run? -->
