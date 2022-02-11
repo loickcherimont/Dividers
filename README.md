@@ -1,4 +1,4 @@
-# ![Dividers](http://https://github.com/loickcherimont/Dividers/blob/master/img/pi-icon.ico)
+# Dividers
 Dividers is a Python project using Tkinter module.
 I decide to create this project to work with a Python library
 and to begin software programming.
