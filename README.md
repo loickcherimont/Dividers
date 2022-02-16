@@ -3,11 +3,11 @@ Dividers is a Python project using Tkinter module.
 I decided to create this project to work with a Python library
 and to begin software programming.
 
-## Contents
+<!--## Contents
 - [Dividers](#dividers)
   - [Contents](#contents)
   - [How to use it](#how-to-use-it)
-    - [Example](#example)
+    - [Example](#example)-->
 
 ## How to use it
 To run the project, you need to install Python **(version 3.XX)** on your system
