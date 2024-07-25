@@ -26,3 +26,14 @@ of your entry
 5 return -5, -1, 1, 5
 ```
 
+<!--
+If you use Linux, you need to install Tkinter
+
+
+Open a terminal
+sudo apt-get install python3-tk
+
+Fedora
+sudo dnf install python3-tkinter
+-->
+
