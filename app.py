@@ -49,7 +49,12 @@ window.minsize(720,480)
 
 # Customization of window
 window.config(bg="#2082d8")
-window.iconbitmap("img/pi-icon.ico")
+
+# For Windows
+# Comment the next line below on Linux! 
+window.iconbitmap(bitmap="img/pi-icon.ico")
+
+
 
 
 # --- FRAME AND COMPONENTS ---
